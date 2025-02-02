@@ -1,4 +1,6 @@
-hi there
+- 🌱 I’m currently learning python and UI/UX
+- 📫 How to reach me thanuuu.p@gmail.com
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Thanushri-p) 
 
