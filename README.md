@@ -1,4 +1,3 @@
-- 🌱 I’m currently learning python and UI/UX
 - 📫 How to reach me thanuuu.p@gmail.com
 
 ## 🌐 Socials:
